@@ -1,0 +1,5 @@
+{
+  "name": "DIY Media Server",
+  "description": "A prototype interface for a local network media server featuring library management, server status monitoring, and media playback simulation.",
+  "requestFramePermissions": []
+}
